@@ -1,0 +1,128 @@
+*{
+				margin: 0px;
+				padding: 0px;
+				
+			}
+		
+			.di{
+				
+				background:url(../img/yinhe.jpg);
+				background-size:cover ;	
+				background-attachment:fixed ;
+				
+			}
+			.head{
+				
+				position: fixed;
+				height:15%;
+				width: 100%;
+				z-index:1;
+			}    
+			
+			.contern{
+				position: relative;
+				top: 100px;
+				height: 60%;
+				width: 100%;
+				margin-bottom: 120px;
+			
+			}
+			
+			.box{
+				
+				height: 700px;
+				width: 1220px;
+				margin-left: 60px;
+				margin-right: 60px;
+				margin:0 auto;
+				background: transparent;
+			}
+			
+			
+			
+			.img{
+				height: 100px;
+				width: 100px;
+				margin-left: 100px;
+			
+			}
+			.img span b{
+				display:inline-block;
+				margin-left: 10px;
+				
+				color:darkslategray;
+				font-size: 20px;
+				line-height: 50px;
+			}
+			.box2{
+				height: 70%;
+				border-radius: 15px;
+				background: darkslateblue;
+				padding: 20px; 
+			}
+			
+			.foots{
+				position: relative;
+				height: 15%;
+				width: 100%;
+				margin-top:27px ;
+				margin-bottom: 0px;
+			}
+			.foots p{
+				text-align: center;
+				margin-bottom: 3px;
+				font-family: "微软雅黑" ;
+				color: white;
+				
+			}
+			/*.class_area{
+				width:1000px;
+				height:500px;
+				border-style: solid;
+				border-radius: 1%;
+				background-color: #FFFFFF;
+			}*/
+	.class_one {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.cla_name {
+	color: #FFFFFF;
+	font-style: "黑体";
+	font-size: 40px;
+	margin-top: 40px;
+	margin-left: 500px;
+}
+
+.tea_name {
+	color: #FFFFFF;
+	font-style: "黑体";
+	font-size: 20px;
+	margin-left: 30px;
+}
+
+.img_cla {
+	width: 430px;
+	margin-left: 80px;
+	margin-right: 70px;
+	float: left;
+}
+
+.text_area1 {
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 28px;
+	margin-top: 80px;
+	margin-right: 120px;
+}
+
+.btn_join {
+margin-top:20px;
+
+}
+.boxx{
+	width:500px;
+	margin-left:30%;
+	
+}

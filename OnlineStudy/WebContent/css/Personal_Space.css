@@ -1,0 +1,119 @@
+*{
+				
+	margin: 0px;
+	padding: 0px;
+}
+
+.sousuo{
+	margin-top:8px;
+	margin-left:50px;
+}
+.biao{
+	float:left;
+	margin-top:7px;
+}
+.one{
+	width:300px;
+	height:40px;
+	font-size:18px;
+	padding-top:8px;
+	margin-left:420px;
+	margin-top:7px;
+	display:inline;
+                                                                                                                                                                                                                                                                                                                                          
+}
+.input1{
+	width:300px;
+	height:25px;
+	border-radius:100px/90px;
+}
+.submit1{
+	width:80px;
+	height:30px;
+	font-style:"微软雅黑";
+	font-size:15px;
+	color:#FFFFFF;
+	background-color:#66B3FF;
+	border-radius:100px/95px;
+}
+.button_one{
+	width:83px;
+	height:29px;
+	background-color: #66B3FF;
+	margin:8px;
+	font-style:"微软雅黑";
+	font-size:15px;
+	color:#FFFFFF;
+	border-radius:100px/95px;
+	
+}
+.p_one{
+	display:block;
+}
+hr{
+	height:2px;
+	margin-top:20px;
+    style="height:1px;border:none;border-top:1px dashed #0066CC;
+}
+.p_one{
+	font-style:"黑体";
+	font-size:25px;
+	margin-left:5px;
+}
+.img_all{
+	width:150px;
+	margin-left:60px;
+	float:left;
+}
+.button_all{
+	display:block;
+	float:left;
+	padding:10px;
+	margin-left:20px;
+}
+.img_button1{
+	width:180px;
+	height:30px;
+	font-style:"微软雅黑";
+	font-size:15px;
+	color:#FFFFFF;
+	display:block;
+	opacity:0.8;
+}
+.img_button2{
+	width:180px;
+	height:30px;
+	font-style:"微软雅黑";
+	font-size:15px;
+	color:#FFFFFF;
+	display:block;
+	margin-top:20px;
+	opacity:0.8;
+}
+.class_one{
+	margin-top:30px;
+	margin-bottom:55px;
+	display:block;
+	float:left;
+}
+.class_two{
+	margin-top:50px;
+	display:block;
+	float:left;
+}
+.text_area1{
+	margin-right:50px;
+	margin-top:20px;
+	font-style:"微软雅黑";
+	font-size:16px;
+	margin-left:20px;
+	
+}
+.text_area2{
+	margin-right:50px;
+	margin-top:20px;
+	font-style:"微软雅黑";
+	font-size:16px;
+	margin-left:20px;
+	
+}

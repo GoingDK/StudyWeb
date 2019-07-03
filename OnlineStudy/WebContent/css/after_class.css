@@ -1,0 +1,156 @@
+	* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.di {
+	background: url(../img/yinhe.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.head {
+	position: fixed;
+	height: 15%;
+	width: 100%;
+	z-index: 1;
+}
+
+.contern {
+	position: relative;
+	top: 100px;
+	height: 60%;
+	width: 100%;
+	margin-bottom: 120px;
+}
+
+.box {
+	height: 1000px;
+	width: 1220px;
+	margin-left: 60px;
+	margin-right: 60px;
+	margin: 0 auto;
+	background: transparent;
+}
+.box1{
+				
+				height: 20%;
+				background:url(../img/banner1.jpg);
+				background-size:cover ;	
+				margin-bottom: 8px;
+				padding-top: 70px;
+				padding-left: 180px;
+				padding-right: 200px;
+				display:flex;
+				border-radius: 15px;
+			}
+.img {
+	height: 100px;
+	width: 100px;
+	margin-left: 100px;
+}
+
+.img span b {
+	display: inline-block;
+	margin-left: 10px;
+	color: darkslategray;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.box2 {
+	height: 70%;
+	border-radius: 15px;
+	background: darkslateblue;
+	padding: 20px;
+}
+
+.span_one {
+	color: #FFFFFF;
+	font-weight: 500;
+	font-size: 35px;
+	font-style: "微软雅黑";
+	margin-left: 50px;
+	margin-top: 10px;
+	display: block;
+}
+
+.foots {
+	position: relative;
+	height: 15%;
+	width: 100%;
+	margin-top: 27px;
+	margin-bottom: 0px;
+}
+
+.foots p {
+	text-align: center;
+	margin-bottom: 3px;
+	font-family: "微软雅黑";
+	color: white;
+}
+
+.left_area {
+	width: 140px;
+	height: 220px;
+	border: 2px solid #D0D0D0;
+	background-color: #FFFFFF;
+	margin-left: 50px;
+	margin-top: 60px;
+	padding-left: 15px;
+	padding-top: 5px;
+	float: left;
+	display: inline;
+	float: left;
+}
+
+.left_big {
+	font-style: "黑体";
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-left: 6px;
+	margin-top: 6px;
+	}
+	.left_one {
+		font-style: "微软雅黑";
+		letter-spacing: 0.5px;
+		margin-right: 2px;
+		font-size: 15px;
+		display: block;
+	}
+	.hr_one {
+		margin: 8px;
+		color: #2F4056;
+	}
+	.right_area {
+		margin-top:45px;
+		margin-left: 85px;
+		line-height: 8px display:inline;
+		float: left;
+	}
+	.right_one {
+		font-style: "黑体";
+		font-size: 20px;
+		margin-top:8px;
+		margin-left:5px;
+		margin-bottom:10px;
+		display: block;
+	}
+	.right_two {
+		font-style: "微软雅黑";
+		font-size: 15px;
+		color: #606060;
+		margin-left:5px;
+		margin-bottom:1px;
+		
+	}
+	.area_one{
+		width:800px;
+		height:100px;
+		border-style:solid;
+		border-color: #FFFFFF;
+		background: #FFFFFF;
+		margin:14px;
+		
+		
+	}
